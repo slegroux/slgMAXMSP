@@ -1,0 +1,2 @@
+open thispatcher
+appicon /Applications/Max5/slg.patches/media/icns/ledwall.icns
